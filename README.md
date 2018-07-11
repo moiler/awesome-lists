@@ -1,21 +1,20 @@
 # Software
 
-
 ## Package Manager
- - https://chocolatey.org/
+ - [Chocolatey](https://chocolatey.org/) - Package manager for Windows
 
 ## Logging and Monitoring
- - https://www.influxdata.com/
- - https://grafana.com/
+ - [InfluxData](https://www.influxdata.com/) - Open Source Time Series DB Platform for Metrics & Events (Time Series Data)
+ - [Grafana](https://grafana.com/) - Data visualization & Monitoring with support for Graphite, InfluxDB, Prometheus, Elasticsearch and many more databases
 
 ## Surveillance
- - https://www.ispyconnect.com/
- - https://www.kerberos.io/
- - https://shinobi.video/
- - https://zoneminder.com/
+ - [iSpy](https://www.ispyconnect.com/) - Open source camera security software. iSpy provides security, surveillance, motion detection, online access and remote control
+ - [Kerberos.io](https://www.kerberos.io/) - Open source video surveillance security system. Protect your property or building with bleeding edge video security surveillance software. Use any type of cameras, including IP cameras and USB cameras (webcams).
+ - [Shinobi](https://shinobi.video/) - Shinobi is the Open Source CCTV software written in Node.JS. 
+ - [ZoneMinder](https://zoneminder.com/) - A full-featured, open source, state-of-the-art video surveillance software system.
 
 ## Notifications
- - https://pushover.net/
+ - [Pushover](https://pushover.net/) - Pushover makes it easy to get real-time notifications on your Android, iPhone, iPad, and Desktop (Android Wear and Apple Watch, too!)
  - https://www.pushbullet.com
 
 ## Virtualization
