@@ -14,7 +14,7 @@
  - [Distros](#distros)
  - [Image Hosting](#image-hosting)
 
---------------------
+---
 
 ## Package Managers
  - [Chocolatey](https://chocolatey.org/) - Package manager for Windows
@@ -31,7 +31,7 @@
 
 ## Notifications
  - [Pushover](https://pushover.net/) - Pushover makes it easy to get real-time notifications on your Android, iPhone, iPad, and Desktop (Android Wear and Apple Watch, too!)
- - https://www.pushbullet.com
+ - https://www.pushbullet.com/
 
 ## Virtualization
  - https://www.virtualbox.org/
@@ -56,14 +56,14 @@
 
 ## Media
  - https://www.plex.tv/
- - http://tautulli.com/
+ - https://tautulli.com/
  - https://emby.media/
  - https://kodi.tv/
  - https://flexget.com/
 
 ## File Download
- - http://deluge-torrent.org/
- - http://www.transmissionbt.com/
+ - https://deluge-torrent.org/
+ - https://www.transmissionbt.com/
  - https://rakshasa.github.io/rtorrent/
  - https://sabnzbd.org/
 
@@ -73,13 +73,13 @@
  - https://lubuntu.net/
  - https://getfedora.org/
  - https://www.antergos.com/
- - http://linuxmint.com/
+ - https://linuxmint.com/
  - https://manjaro.org/
  - https://www.archlinux.org/
- - http://elementary.io/
- - http://www.opensuse.org/
+ - https://elementary.io/
+ - https://www.opensuse.org/
  - http://www.kali.org/
- - https://rancher.com/rancher-os
+ - https://rancher.com/rancher-os/
 
 ## Image Hosting
- - https://cloudinary.com
+ - https://cloudinary.com/
