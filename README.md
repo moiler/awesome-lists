@@ -18,21 +18,21 @@
 ---
 
 ## Database
- - https://www.mongodb.com/
+ - [MondoDB](https://www.mongodb.com/)
 
 ## Distros
- - https://distrowatch.com/
- - https://www.ubuntu.com/
- - https://lubuntu.net/
- - https://getfedora.org/
- - https://www.antergos.com/
- - https://linuxmint.com/
- - https://manjaro.org/
- - https://www.archlinux.org/
- - https://elementary.io/
- - https://www.opensuse.org/
- - https://www.kali.org/
- - https://rancher.com/rancher-os/ 
+ - [Distrowatch](https://distrowatch.com/)
+ - [Ubuntu](https://www.ubuntu.com/)
+ - [Lubuntu](https://lubuntu.net/)
+ - [Fedora](https://getfedora.org/)
+ - [Antergos](https://www.antergos.com/)
+ - [Mint](https://linuxmint.com/)
+ - [Manjaro](https://manjaro.org/)
+ - [Arch](https://www.archlinux.org/)
+ - [Elementary](https://elementary.io/)
+ - [openSUSE](https://www.opensuse.org/)
+ - [Kali](https://www.kali.org/)
+ - [RacherOS](https://rancher.com/rancher-os/)
  
 ## File Download
  - https://deluge-torrent.org/
@@ -41,8 +41,8 @@
  - https://sabnzbd.org/ 
 
 ## Home Automation
- - https://www.home-assistant.io
- - https://nodered.org 
+ - [Home Assistant](https://www.home-assistant.io/)
+ - [NodeRED](https://nodered.org/)
  
 ## Image Hosting
  - https://cloudinary.com/ 
@@ -52,27 +52,31 @@
  - [Grafana](https://grafana.com/) - Data visualization & Monitoring with support for Graphite, InfluxDB, Prometheus, Elasticsearch and many more databases
 
  ## Media
- - https://www.plex.tv/
- - https://tautulli.com/
- - https://emby.media/
- - https://kodi.tv/
- - https://flexget.com/
+ - [Plex](https://www.plex.tv/)
+ - [Tautulli](https://tautulli.com/)
+ - [Emby](https://emby.media/)
+ - [kodi](https://kodi.tv/)
+ - [Flexget](https://flexget.com/)
 
 ## Network
- - https://www.putty.org/
- - https://www.pfsense.org/
- - https://pi-hole.net
- - https://www.librenms.org/
+ - [Putty](https://www.putty.org/)
+ - [pfsense](https://www.pfsense.org/)
+ - [Pi-hole](https://pi-hole.net/)
+ - [libreNMS](https://www.librenms.org/)
 
 ## Notifications
  - [Pushover](https://pushover.net/) - Pushover makes it easy to get real-time notifications on your Android, iPhone, iPad, and Desktop (Android Wear and Apple Watch, too!)
- - https://www.pushbullet.com/
+ - [Pushbullet](https://www.pushbullet.com/)
  
 ## Package Managers
  - [Chocolatey](https://chocolatey.org/) - Package manager for Windows
 
 ## Programming
  - [Scratch](https://scratch.mit.edu/) - Create stories, games, and animations. Share with others around the world
+ - [Visual Micro](https://www.visualmicro.com/) - Arduino for Visual Studio. Visual Micro is a plugin for Microsoft Visual Studio (with C++ installed). Visual Micro helps you create Arduino compatible cross-platform programs for hundreds of different Arduino compatible micro-controllers.
+ - [Node.js](https://nodejs.org)
+ - [npm](https://npmjs.org)
+ - [PM2](https://pm2.keymetrics.io/) - Advanced, production process manager for Node.js.
 
 ## Storage
  - https://owncloud.org/
@@ -86,4 +90,4 @@
  - [ZoneMinder](https://zoneminder.com/) - A full-featured, open source, state-of-the-art video surveillance software system.
 
 ## Virtualization
- - https://www.virtualbox.org/ 
+ - [Virtualbox](https://www.virtualbox.org/)
