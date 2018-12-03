@@ -18,7 +18,7 @@
 ---
 
 ## Database
- - [MondoDB](https://www.mongodb.com/)
+ - [MongoDB](https://www.mongodb.com/)
 
 ## Distros
  - [Distrowatch](https://distrowatch.com/)
