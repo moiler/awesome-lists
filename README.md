@@ -32,20 +32,20 @@
  - [Elementary](https://elementary.io/)
  - [openSUSE](https://www.opensuse.org/)
  - [Kali](https://www.kali.org/)
- - [RacherOS](https://rancher.com/rancher-os/)
+ - [RancherOS](https://rancher.com/rancher-os/)
  
 ## File Download
- - https://deluge-torrent.org/
- - https://www.transmissionbt.com/
- - https://rakshasa.github.io/rtorrent/
- - https://sabnzbd.org/ 
+ - [Deluge](https://deluge-torrent.org/)
+ - [TransmissionBT](https://www.transmissionbt.com/)
+ - [RTorrent](https://rakshasa.github.io/rtorrent/)
+ - [SabNZBD](https://sabnzbd.org/)
 
 ## Home Automation
  - [Home Assistant](https://www.home-assistant.io/)
  - [NodeRED](https://nodered.org/)
  
 ## Image Hosting
- - https://cloudinary.com/ 
+ - [Cloudinary](https://cloudinary.com/)
  
 ## Logging and Monitoring
  - [InfluxData](https://www.influxdata.com/) - Open Source Time Series DB Platform for Metrics & Events (Time Series Data)
@@ -79,9 +79,9 @@
  - [PM2](https://pm2.keymetrics.io/) - Advanced, production process manager for Node.js.
 
 ## Storage
- - https://owncloud.org/
- - https://nextcloud.com/
- - http://rockstor.com/
+ - [OwnCloud](https://owncloud.org/)
+ - [Nextcloud](https://nextcloud.com/)
+ - [Rockstor](http://rockstor.com/)
 
 ## Surveillance
  - [iSpy](https://www.ispyconnect.com/) - Open source camera security software. iSpy provides security, surveillance, motion detection, online access and remote control
