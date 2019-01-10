@@ -1,4 +1,4 @@
-[Awesome Lists](https://moiler.github.io/awesome-lists/)
+# [Awesome Lists](https://moiler.github.io/awesome-lists/)
 
 # Software
 
@@ -53,7 +53,7 @@
  - [InfluxData](https://www.influxdata.com/) - Open Source Time Series DB Platform for Metrics & Events (Time Series Data)
  - [Grafana](https://grafana.com/) - Data visualization & Monitoring with support for Graphite, InfluxDB, Prometheus, Elasticsearch and many more databases
 
- ## Media
+## Media
  - [Plex](https://www.plex.tv/)
  - [Tautulli](https://tautulli.com/)
  - [Emby](https://emby.media/)
@@ -93,3 +93,9 @@
 
 ## Virtualization
  - [Virtualbox](https://www.virtualbox.org/)
+ 
+<br/>
+<div align="right">
+    <b><a href="#----">↥ back to top</a></b>
+</div>
+<br/>
