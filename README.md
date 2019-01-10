@@ -1,4 +1,4 @@
-# [Awesome Lists](https://moiler.github.io/awesome-lists/)
+[Awesome Lists](https://moiler.github.io/awesome-lists/)
 
 # Software
 
@@ -93,9 +93,3 @@
 
 ## Virtualization
  - [Virtualbox](https://www.virtualbox.org/)
- 
-<br/>
-<div align="right">
-    <b><a href="#----">↥ back to top</a></b>
-</div>
-<br/>
