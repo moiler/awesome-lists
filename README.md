@@ -74,11 +74,12 @@
  - [Chocolatey](https://chocolatey.org/) - Package manager for Windows
 
 ## Programming
+ - [Github](https://github.com/)
+ - [Node.js](https://nodejs.org/en/) - Node.js® is a JavaScript runtime built on Chrome's V8 JavaScript
+ - [npm](https://www.npmjs.com/) - npm is the package manager for JavaScript and the world’s largest software registry
+ - [PM2](http://pm2.keymetrics.io/) - Advanced, production process manager for Node.js
  - [Scratch](https://scratch.mit.edu/) - Create stories, games, and animations. Share with others around the world
- - [Visual Micro](https://www.visualmicro.com/) - Arduino for Visual Studio. Visual Micro is a plugin for Microsoft Visual Studio (with C++ installed). Visual Micro helps you create Arduino compatible cross-platform programs for hundreds of different Arduino compatible micro-controllers.
- - [Node.js](https://nodejs.org)
- - [npm](https://npmjs.org)
- - [PM2](https://pm2.keymetrics.io/) - Advanced, production process manager for Node.js.
+ - [Visual Micro](https://www.visualmicro.com/) - Arduino for Visual Studio. Visual Micro is a plugin for Microsoft Visual Studio (with C++ installed). Visual Micro helps you create Arduino compatible cross-platform programs for hundreds of different Arduino compatible micro-controllers. 
 
 ## Storage
  - [OwnCloud](https://owncloud.org/)
